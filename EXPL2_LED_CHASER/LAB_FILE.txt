@@ -1,0 +1,25 @@
+EXP2 : Desgine a LED chaser circuit
+
+Circuit Diagram: 
+
+Concept : An arduino is a on board microcontroller. 
+And it can be programmed via the language Processing to turn a LED on for a certain period of time
+and turn it off in a loop. This property can be used to desgine a blinking pattern of LED in order to 
+exhibit the LED chaser patetrn with multiple LEDs.
+
+Appratus : Arduino board, six LED, Resistance of 220ohm and Jumper Wires.
+
+Problems and Troubleshooting : 
+a) LEDs are not turning on : Check for the polarity and make sure their P end is connected to the cathod 
+   and  N end is connected to the anode.
+b) Arduino Board is not working : Make sure that the pins are not shorted. Connect USB type A to B 
+   properly and reupload the sketch.
+   
+Learning Outcomes:
+a)Learned to use the following arduino Methods/functions:-
+                                                  1)digitalWrite()
+                                                  2)pinMode()
+                                                  3)delay()
+b)Structure of the a Arduino sketch.
+c)Learned to connect the components in a logical way with respect to the written code.
+d)Learned to build logics.
