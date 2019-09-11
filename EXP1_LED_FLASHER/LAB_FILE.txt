@@ -17,8 +17,8 @@ b) Arduino Board is not working : Make sure that the pins are not shorted. Conne
    
 Learning Outcomes:
 a)Learned to use the following arduino Methods/functions:-
-                                                  1)digitalWrite()
-                                                  2)pinMode()
-                                                  3)delay()
+                                                  1)digitalWrite();
+                                                  2)pinMode();
+                                                  3)delay();
 b)Structure of the a Arduino sketch.
 c)Learned to connect the components in a correct manner.
