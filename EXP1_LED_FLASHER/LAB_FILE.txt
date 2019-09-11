@@ -21,4 +21,4 @@ a)Learned to use the following arduino Methods/functions:-
                                                   2)pinMode()
                                                   3)delay()
 b)Structure of the a Arduino sketch.
-c)Learned to connect the components in a logical way with respect to the written code.
+c)Learned to connect the components in a correct manner.
